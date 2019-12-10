@@ -15,5 +15,7 @@ namespace SalesWebMvc.Models
         }
 
         public DbSet<SalesWebMvc.Models.User> User { get; set; }
+
+        public DbSet<SalesWebMvc.Models.Planilha> Planilha { get; set; }
     }
 }

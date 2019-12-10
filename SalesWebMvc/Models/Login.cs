@@ -14,8 +14,7 @@ namespace SalesWebMvc.Models
         public string Email { get; set; }
     }
 
-
-
+   
 }
 
 
